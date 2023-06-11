@@ -50,7 +50,7 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 ```
       Start the module using module projname().
 
-      Declare the inputs and outputs along with the select lines according to the multiplexer         and demultiplexer.
+      Declare the inputs and outputs along with the select lines according to the multiplexer and demultiplexer.
 
       Use wire to assign intermediate outputs.
 
